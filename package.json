@@ -1,0 +1,13 @@
+{
+  "name": "amo-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AKuchko/amo-api.git",
+  "author": "AKuchko <vasco_da_gama1469@mail.ru>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "lodash": "^4.17.21"
+  }
+}
